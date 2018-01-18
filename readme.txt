@@ -14,5 +14,7 @@
 
 %======================================================================
 % Any further questions, please send email to: 
-     shenjianbing@bit.edu.cn    or   shenjianbingcg@gmail.com
+     hao_xp@yeah.net
 %======================================================================
+
+PS: The code is flawed, and I'll improve it as soon as possible.
